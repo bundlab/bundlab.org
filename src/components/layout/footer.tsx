@@ -17,10 +17,12 @@ export function Footer() {
           <div>
             <h3 className="font-semibold tracking-tight">Quick Links</h3>
             <ul className="mt-4 space-y-2">
-              <li><Link href="/#services" className="text-muted-foreground hover:text-primary">Services</Link></li>
-              <li><Link href="/#team" className="text-muted-foreground hover:text-primary">Team</Link></li>
-              <li><Link href="/#blog" className="text-muted-foreground hover:text-primary">Blog</Link></li>
-              <li><Link href="/#contact" className="text-muted-foreground hover:text-primary">Contact</Link></li>
+              <li><Link href="/" className="text-muted-foreground hover:text-primary">Home</Link></li>
+              <li><Link href="/about" className="text-muted-foreground hover:text-primary">About</Link></li>
+              <li><Link href="/services" className="text-muted-foreground hover:text-primary">Services</Link></li>
+              <li><Link href="/projects" className="text-muted-foreground hover:text-primary">Projects</Link></li>
+              <li><Link href="/blog" className="text-muted-foreground hover:text-primary">Blog</Link></li>
+              <li><Link href="/contact" className="text-muted-foreground hover:text-primary">Contact</Link></li>
             </ul>
           </div>
           <div>

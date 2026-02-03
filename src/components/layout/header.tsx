@@ -8,10 +8,11 @@ import { Logo } from "@/components/ui/logo";
 import { cn } from "@/lib/utils";
 
 const navLinks = [
-  { href: "/#services", label: "Services" },
-  { href: "/#team", label: "Team" },
-  { href: "/#blog", label: "Blog" },
-  { href: "/ai-content-suggester", label: "AI Tool" },
+  { href: "/", label: "Home" },
+  { href: "/about", label: "About" },
+  { href: "/services", label: "Services" },
+  { href: "/projects", label: "Projects" },
+  { href: "/blog", label: "Blog" },
 ];
 
 export function Header() {
@@ -34,7 +35,7 @@ export function Header() {
         </nav>
         <div className="flex flex-1 items-center justify-end gap-2">
           <Button asChild className="hidden sm:flex">
-            <Link href="/#contact">Contact Us</Link>
+            <Link href="/contact">Contact Us</Link>
           </Button>
           <Button
             variant="ghost"
@@ -68,7 +69,7 @@ export function Header() {
               ))}
             </nav>
             <Button asChild className="mt-4 w-full">
-              <Link href="/#contact" onClick={() => setIsMenuOpen(false)}>
+              <Link href="/contact" onClick={() => setIsMenuOpen(false)}>
                 Contact Us
               </Link>
             </Button>

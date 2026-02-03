@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "slug": "project-alpha",
+      "title": "Project Alpha",
+      "shortDescription": "A revolutionary new platform for content creators.",
+      "longDescription": "Project Alpha is a comprehensive suite of tools designed to empower content creators. It includes video editing, social media management, and analytics, all integrated into a seamless workflow. We focused on creating an intuitive user interface to lower the barrier to entry for new creators.",
+      "imageUrl": "https://picsum.photos/seed/project1/1200/800",
+      "imageHint": "creative project",
+      "category": "Web Platform",
+      "client": "Alpha Inc."
+    },
+    {
+      "slug": "project-beta",
+      "title": "Project Beta",
+      "shortDescription": "A mobile app for connecting local communities.",
+      "longDescription": "Project Beta helps people discover local events, connect with neighbors, and support local businesses. It's available on iOS and Android. Features include a community forum, a local marketplace, and an events calendar. We used a location-based approach to deliver highly relevant content to users.",
+      "imageUrl": "https://picsum.photos/seed/project2/1200/800",
+      "imageHint": "mobile app",
+      "category": "Mobile App",
+      "client": "Beta Community"
+    },
+    {
+      "slug": "project-gamma",
+      "title": "Project Gamma",
+      "shortDescription": "An e-commerce solution for small businesses.",
+      "longDescription": "Project Gamma provides an easy-to-use platform for small businesses to create their own online stores, manage inventory, and process payments. It integrates with major shipping carriers and payment gateways to provide a complete solution. Our goal was to make e-commerce accessible to everyone.",
+      "imageUrl": "https://picsum.photos/seed/project3/1200/800",
+      "imageHint": "ecommerce solution",
+      "category": "E-commerce",
+      "client": "Gamma Co."
+    },
+    {
+      "slug": "project-delta",
+      "title": "Project Delta",
+      "shortDescription": "AI-powered data analytics dashboard.",
+      "longDescription": "Project Delta is a business intelligence tool that uses AI to uncover insights from large datasets. It features customizable dashboards, predictive modeling, and natural language querying. We built a powerful backend to handle complex computations in real-time.",
+      "imageUrl": "https://picsum.photos/seed/project4/1200/800",
+      "imageHint": "data analytics",
+      "category": "AI & Machine Learning",
+      "client": "Delta Analytics"
+    }
+  ]
+}
