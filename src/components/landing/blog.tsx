@@ -11,14 +11,14 @@ const blogPosts = [
     category: "Technology",
     title: "The Rise of AI in the Nigerian Tech Ecosystem",
     excerpt: "Exploring how Artificial Intelligence is transforming industries and creating new opportunities in Nigeria.",
-    author: { name: "Adaobi Okoro", imageId: "team-member-1" },
+    author: { name: "Abdullahi Bundi", imageId: "team-member-1" },
   },
   {
     id: "blog-post-2",
     category: "Development",
     title: "Scaling Your Application with Modern DevOps Practices",
     excerpt: "A deep dive into CI/CD, containerization, and cloud-native strategies for robust applications.",
-    author: { name: "Chinedu Eze", imageId: "team-member-2" },
+    author: { name: "Enoch Philip Dibal", imageId: "team-member-2" },
   },
   {
     id: "blog-post-3",
