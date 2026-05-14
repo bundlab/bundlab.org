@@ -8,13 +8,13 @@ import { Card, CardContent } from "@/components/ui/card";
 const teamMembers = [
   {
     id: "team-member-1",
-    name: "Adaobi Okoro",
+    name: "Abdullahi Bundi",
     role: "Founder & CEO",
     bio: "Visionary leader with a passion for building tech that solves real-world problems in Africa.",
   },
   {
     id: "team-member-2",
-    name: "Chinedu Eze",
+    name: "Enoch Philip Dibal",
     role: "Lead Software Engineer",
     bio: "Expert architect of robust and scalable systems. Loves clean code and a good challenge.",
   },
@@ -26,7 +26,7 @@ const teamMembers = [
   },
   {
     id: "team-member-4",
-    name: "Emeka Nwosu",
+    name: "Emmanuel Buba",
     role: "AI/ML Specialist",
     bio: "Brings data to life, building intelligent systems that power next-generation applications.",
   },
